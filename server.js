@@ -61,7 +61,7 @@ app.post("/data", (req, res) => {
 require("./routes/student.routes")(app);
 
 // define port for project
-const PORT = 8075;
+const PORT = 7071;
 
 // Monitor when server starts
 app.listen(PORT, () => {
