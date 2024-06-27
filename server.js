@@ -31,7 +31,7 @@ app.get("/n", (req, res) => {
         {
             "status": "Sucess",
             "status_code": 100,
-            "message": "Welcome to Student MS"
+            "message": "Welcome to Student management system"
         }
     );
 });
